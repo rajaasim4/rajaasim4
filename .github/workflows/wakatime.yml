@@ -1,0 +1,25 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *' # This will run the action every hour, you can adjust the schedule as needed
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Update README
+        run: node update-wakatime.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
