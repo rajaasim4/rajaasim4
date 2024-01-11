@@ -42,9 +42,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaasim4&show_icons=true&locale=en" alt="rajaasim4" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajaasim4" alt="GitHub Streak" /></a>
+<p ><img src="https://github-readme-streak-stats.herokuapp.com?user=rajaasim4" alt="GitHub Streak" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajaasim4)](https://git.io/streak-stats)
 
 <!--
 <p><img align="left" src="https://github-readme-stats-rajaasim.vercel.app/api/top-langs?username=rajaasim4&show_icons=true&locale=en&layout=compact" alt="rajaasim4" /></p>
