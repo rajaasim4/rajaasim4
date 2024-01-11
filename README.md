@@ -42,7 +42,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaasim4&show_icons=true&locale=en" alt="rajaasim4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaasim4&" alt="rajaasim4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaasim4" alt="rajaasim4" /></p>
 
 <!--
 <p><img align="left" src="https://github-readme-stats-rajaasim.vercel.app/api/top-langs?username=rajaasim4&show_icons=true&locale=en&layout=compact" alt="rajaasim4" /></p>
