@@ -53,10 +53,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaasim4&" alt="rajaasim4" /></p>-->
 
-
-<!-- <figure><embed src="https://wakatime.com/share/@rajaasim4/1e4edeba-2ce0-476d-95b0-1ed8c6c2886a.svg"></embed></figure>
-[![Harlok's wakatime stats](https://github-readme-stats-rajaasim.vercel.app/api/wakatime?username=@rajaasim4)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!--
+<figure><embed src="https://wakatime.com/share/@rajaasim4/1e4edeba-2ce0-476d-95b0-1ed8c6c2886a.svg"></embed></figure>
+[![Harlok's wakatime stats](https://github-readme-stats-rajaasim.vercel.app/api/wakatime?username=@rajaasim4)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <details>
