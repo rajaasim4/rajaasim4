@@ -5,7 +5,7 @@
 [linkedin]:https://www.linkedin.com/in/raja-muhammad-asim/
 
 
-<img src="./assets/Muhammad Asim.png" width="100%" alt="Raja Asim Banner Img"/>
+<img src="./assets/Muhammad Asim-new.png" width="100%" alt="Raja Asim Banner Img"/>
 <!-- <img src="./assets/Muhammad Asim.svg" width="100%" alt="Raja Asim Banner Img"/> -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
